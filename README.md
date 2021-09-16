@@ -1,6 +1,7 @@
 # Making Vehicles and Robots See: Getting Started with Perception for Students
 
-This submission contains all of the example and exercise materials for the online tutorial series - [Making Vehicles and Robots See: Getting Started with Perception for Students](https://www.mathworks.com/videos/series/making-vehicles-and-robots-see-getting-started-with-perception-for-students.html). Check out the videos here: [https://www.mathworks.com/videos/series/making-vehicles-and-robots-see-getting-started-with-perception-for-students.html](https://www.mathworks.com/videos/series/making-vehicles-and-robots-see-getting-started-with-perception-for-students.html).
+This submission contains all of the example and exercise materials for the online tutorial series - [Making Vehicles and Robots See: Getting Started with Perception for Students](https://www.mathworks.com/videos/series/making-vehicles-and-robots-see-getting-started-with-perception-for-students.html). 
+Link to the video series: [https://www.mathworks.com/videos/series/making-vehicles-and-robots-see-getting-started-with-perception-for-students.html](https://www.mathworks.com/videos/series/making-vehicles-and-robots-see-getting-started-with-perception-for-students.html).
 
 While designing autonomous systems, there is typically a requirement to 'see' the environment. It could be an underwater vehicle navigating through obstacles, or a formula student car maneuvering through cones, or robot picking and placing an object. 
 
