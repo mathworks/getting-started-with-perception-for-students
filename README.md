@@ -9,6 +9,7 @@ This tutorial series will help you get started with the practical approaches whi
 
 - Part 1: Basic Operations on Images - Link to Video [https://www.youtube.com/watch?v=GKVLY0iFyK0&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=1](https://www.youtube.com/watch?v=GKVLY0iFyK0&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=1)
 - Part 2: Image Segmentation and Analysis - Link to Video [https://www.youtube.com/watch?v=-bYKl64vpGY&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=2](https://www.youtube.com/watch?v=-bYKl64vpGY&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=2)
+- Part 3: Features Matching and Tracking
 
 ## About the Folders ##
 1. *1_basic_operations_on_images*: 
@@ -20,6 +21,11 @@ This tutorial series will help you get started with the practical approaches whi
     - This folder contains files to segment an image based on colors, refine these detections, and analyze the resulting image regions all using interactive apps available in MATLAB. 
     - It concludes with an exercise to perform color-based segmentation and blob detection using Simulink.
 <img src="resources/segmentation.PNG" width="700" height="200" title="Image segmentation, analysis and labeling"> 
+
+3. *3_feature_matching_and_tracking*
+    - This folder contains files to detect, describe and match features between two images (demo1), and then to track an object in a video based on image features (demo2) using MATLAB. 
+    - It concludes with an exercise to perform video recovery using feature matching in Simulink.
+<img src="resources/imageFeatures.png" width="800" height="176" title="Feature Matching and Tracking"> 
 
 ## About the Files ##
 
