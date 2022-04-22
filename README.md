@@ -5,7 +5,7 @@ Link to the video series: [https://www.youtube.com/playlist?list=PLn8PRpmsu08pMH
 
 While designing autonomous systems, there is typically a requirement to 'see' the environment. It could be an underwater vehicle navigating through obstacles, or a formula student car maneuvering through cones, or robot picking and placing an object. 
 
-This tutorial series will help you get started with the practical approaches while working with perception algorithms and how to tackle them. We will use MATLAB<sup>:registered:</sup> as the platform to understand the algorithms and apply the techniques learnt using Simulink<sup>:registered:</sup> through the exercises. 
+This tutorial series will help you get started with the practical approaches while working with perception algorithms and how to tackle them. We will use MATLAB&reg; as the platform to understand the algorithms and apply the techniques learnt using Simulink&reg; through the exercises. 
 
 - Part 1: Basic Operations on Images - Link to Video [https://www.youtube.com/watch?v=GKVLY0iFyK0&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=1](https://www.youtube.com/watch?v=GKVLY0iFyK0&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=1)
 - Part 2: Image Segmentation and Analysis - Link to Video [https://www.youtube.com/watch?v=-bYKl64vpGY&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=2](https://www.youtube.com/watch?v=-bYKl64vpGY&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=2)
@@ -51,8 +51,8 @@ The model use the following MathWorks products:
 
 1. MATLAB
 2. Simulink
-3. Image Processing Toolbox<sup>TM</sup>
-4. Computer Vision Toolbox<sup>TM</sup>
+3. Image Processing Toolbox &trade;
+4. Computer Vision Toolbox &trade;
 
 In case of any questions, please reach out to us at roboticsarena@mathworks.com.
 
