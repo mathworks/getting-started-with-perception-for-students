@@ -59,8 +59,9 @@ The model use the following MathWorks products:
 2. Simulink
 3. Image Processing Toolbox &trade;
 4. Computer Vision Toolbox &trade;
+5. Lidar Toolbox &trade;
 
 In case of any questions, please reach out to us at roboticsarena@mathworks.com.
 
-Copyright 2021 The MathWorks, Inc.
+Copyright 2022 The MathWorks, Inc.
 
