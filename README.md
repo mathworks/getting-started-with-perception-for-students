@@ -10,6 +10,7 @@ This tutorial series will help you get started with the practical approaches whi
 - Part 1: Basic Operations on Images - Link to Video [https://www.youtube.com/watch?v=GKVLY0iFyK0&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=1](https://www.youtube.com/watch?v=GKVLY0iFyK0&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=1)
 - Part 2: Image Segmentation and Analysis - Link to Video [https://www.youtube.com/watch?v=-bYKl64vpGY&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=2](https://www.youtube.com/watch?v=-bYKl64vpGY&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=2)
 - Part 3: Features Matching and Tracking - Link to Video [https://www.youtube.com/watch?v=rbjybw9UyOg&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=3](https://www.youtube.com/watch?v=rbjybw9UyOg&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=3)
+- Part 4: Basics on Point Cloud Processing - Link to Video - To be added
 
 ## About the Folders ##
 1. *1_basic_operations_on_images*: 
@@ -26,6 +27,11 @@ This tutorial series will help you get started with the practical approaches whi
     - This folder contains files to detect, describe and match features between two images (demo1), and then to track an object in a video based on image features (demo2) using MATLAB. 
     - It concludes with an exercise to perform video recovery using feature matching in Simulink.
 <img src="resources/imageFeatures.png" width="800" height="176" title="Feature Matching and Tracking"> 
+
+4. *4_basics_on_point_cloud_processing*
+    - This folder contains files for introducing the basics on point cloud processing in MATLAB with a demo on location estimation of objects in a 3D space using point clouds. 
+    - It concludes with an exercise to perform location estimation of poles using point cloud.
+<img src="resources/pointCloudProcessing.png" width="800" height="176" title="Basics on Point Cloud Processing"> 
 
 ## About the Files ##
 
