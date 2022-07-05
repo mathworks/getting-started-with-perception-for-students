@@ -63,5 +63,5 @@ The model use the following MathWorks products:
 
 In case of any questions, please reach out to us at roboticsarena@mathworks.com.
 
-Copyright 2022 The MathWorks, Inc.
+Copyright 2021-2022 The MathWorks, Inc.
 
