@@ -46,10 +46,10 @@ The main folder is divided as Parts specficified above. Each folder has files th
 
 ## Recommendations ##
 - Before Begining the series:
-	- Complete [MATLAB Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html)
+	- Complete [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
 - During/After the series:
-	- Complete [Image Processing Onramp](https://www.mathworks.com/learn/tutorials/image-processing-onramp.html)
-	-  Complete [Simulink Onramp](https://www.mathworks.com/learn/tutorials/simulink-onramp.html)
+	- Complete [Image Processing Onramp](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing)
+	-  Complete [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink)
 
 ## Product Requirements ##
 
