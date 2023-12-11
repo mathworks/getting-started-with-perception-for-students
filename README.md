@@ -36,7 +36,7 @@ This tutorial series will help you get started with the practical approaches whi
 5. *5_image-classification-with-deep-learning*
     - This folder contains files to train and test a deep neural network to classify a dataset of images
     - It concludes with an exercise to perform image classification using the trained network in Simulink 
-<img src="resources/imageClassification.PNG" width="800" height="333" title="Image Classification with Deep Learning"> 
+<img src="resources/imageClassification.png" width="800" height="300" title="Image Classification with Deep Learning"> 
 
 ## About the Files ##
 
@@ -55,10 +55,11 @@ The main folder is divided as Parts specficified above. Each folder has files th
 - During/After the series:
 	- Complete [Image Processing Onramp](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing)
 	-  Complete [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink)
+ 	- Complete [Deep Learning Onramp](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning)
 
 ## Product Requirements ##
 
-The model use the following MathWorks products:
+This repository uses the following MathWorks products:
 
 1. MATLAB
 2. Simulink
