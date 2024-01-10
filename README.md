@@ -11,6 +11,7 @@ This tutorial series will help you get started with the practical approaches whi
 - Part 2: Image Segmentation and Analysis - Link to Video [https://www.youtube.com/watch?v=-bYKl64vpGY&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=2](https://www.youtube.com/watch?v=-bYKl64vpGY&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=2)
 - Part 3: Features Matching and Tracking - Link to Video [https://www.youtube.com/watch?v=rbjybw9UyOg&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=3](https://www.youtube.com/watch?v=rbjybw9UyOg&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=3)
 - Part 4: Basics on Point Cloud Processing - Link to Video [https://www.youtube.com/watch?v=-k8CKky5Aqc&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=4](https://www.youtube.com/watch?v=-k8CKky5Aqc&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=4)
+- Part 5: Image Classification with Deep Learning - Link to Video [https://www.youtube.com/watch?v=mO5UqH409jY&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=5](https://www.youtube.com/watch?v=mO5UqH409jY&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo&index=5)
 
 ## About the Folders ##
 1. *1_basic_operations_on_images*: 
